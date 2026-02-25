@@ -1,21 +1,36 @@
 # Project 3: Spots
 
-### Overview  
+# Spots – Stage 2 Responsive Webpage
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+## Project Description
+
+Spots is a responsive image-sharing webpage where users can view profile information and a grid of photo cards.  
+In this stage of the project, the focus was on building a fully responsive layout that adapts to desktop and mobile screen sizes.
+
+The page includes a user profile section and a grid of cards that adjust automatically based on the screen width.
+
+---
+
+## Functionality
+
+- Responsive layout for desktop and mobile
+- Profile section with avatar, name, and description
+- Grid of photo cards
+- Hover states for interactive elements
+
+---
+
+## Technologies and Techniques Used
+
+- HTML
+- CSS
+- Flexbox
+- CSS Grid
+- Media queries
+- BEM methodology
+- Responsive design principles
+- Text overflow techniques (ellipsis and line clamp)
+
+---
+
+![alt text](image.png)
