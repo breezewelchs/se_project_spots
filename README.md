@@ -33,4 +33,8 @@ The page includes a user profile section and a grid of cards that adjust automat
 
 ---
 
-![alt text](image.png)
+## Screenshot Desktop Version
+
+![alt text](image-1.png)
+
+## Project link
