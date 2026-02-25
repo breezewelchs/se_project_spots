@@ -38,3 +38,5 @@ The page includes a user profile section and a grid of cards that adjust automat
 ![alt text](image-1.png)
 
 ## Project link
+
+Github Link (https://github.com/breezewelchs/se_project_spots/settings/pages)
