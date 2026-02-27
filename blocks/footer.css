@@ -1,4 +1,8 @@
 .footer__text {
+  font-size: 16px;
+  line-height: 1;
+  font-weight: 400;
+  color: #212121b2;
+  margin: 0;
   text-align: center;
-  opacity: 0.7;
 }
