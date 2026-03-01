@@ -41,3 +41,8 @@ The page includes a user profile section and a grid of cards that adjust automat
 
 Github Link (https://breezewelchs.github.io/se_project_spots/
 )
+
+## Project Pitch Video
+
+Check out [this video](https://www.loom.com/share/44a5588a8d6b4389a8d80f8535909db2), where I describe my
+project and some challenges I faced while building it.

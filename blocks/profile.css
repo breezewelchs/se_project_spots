@@ -66,6 +66,10 @@
   outline-offset: 2px;
 }
 
+.profile__add-btn:hover {
+  opacity: 0.85;
+}
+
 .profile__add-btn {
   margin-left: auto;
   border-radius: 8px;
@@ -74,6 +78,7 @@
   height: 52px;
   margin-top: auto;
   width: 157px;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 627px) {
